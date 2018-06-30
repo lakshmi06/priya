@@ -1,0 +1,10 @@
+<!Doctype html>
+<html>
+    <head>
+        <title> My first website Design </title>
+        </head>
+            <body>
+                <h2 style="background-color:DodgerBlue;"> welcome to web designing program</h1>
+                <p style="color:Red;"> BJS web desiging program starts</p>
+            </body>
+</html>
